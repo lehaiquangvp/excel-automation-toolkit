@@ -3,7 +3,7 @@
 **Merge, split and remove duplicates in Excel files in one click. No macros, no formulas.**
 
 > 💡 **Not a programmer?** Get the ready-to-use **Windows app (.exe)**: just double-click, nothing to install.
-> 👉 **[Download the Windows app on Gumroad](GUMROAD_LINK_HERE)**
+> 👉 **[Download the Windows app on Gumroad](https://quangvp.gumroad.com/l/nmppiy)**
 
 <!-- After uploading screenshots to the screenshots/ folder, uncomment:
 ![Merge files](screenshots/merge.png)
@@ -51,7 +51,7 @@ On Windows, double-click `build_exe.bat`. The app is created at `dist\ExcelToolk
 
 ## Support the project
 
-If this saves you time, the **[Windows app on Gumroad](GUMROAD_LINK_HERE)** is the easiest way to use it and to support future updates. ⭐ Starring the repo also helps!
+If this saves you time, the **[Windows app on Gumroad](https://quangvp.gumroad.com/l/nmppiy)** is the easiest way to use it and to support future updates. ⭐ Starring the repo also helps!
 
 ## License
 
