@@ -25,7 +25,7 @@
 Requires **Python 3.10+**.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/excel-automation-toolkit.git
+git clone https://github.com/lehaiquangvp/excel-automation-toolkit.git
 cd excel-automation-toolkit
 pip install -r requirements.txt
 python excel_toolkit.py
